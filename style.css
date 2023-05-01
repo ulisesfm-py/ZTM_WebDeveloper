@@ -1,0 +1,26 @@
+/*Selector {
+    Property: value
+}*/
+
+body {
+
+    background-image: url(images/background-asian-street.jpg);
+    background-size: cover
+}
+
+h2 {
+    color: red;
+    background-color: aqua;
+    text-align: center;
+    border: 5px dashed purple;
+    cursor: pointer;
+}
+
+p {
+    color: pink;
+}
+
+li {
+    list-style: none;
+    display: inline-block
+}
